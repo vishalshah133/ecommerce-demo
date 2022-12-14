@@ -4,6 +4,12 @@
     cursor: pointer;
 }
 
+.text{
+    stroke: #000;
+    stroke-width: 0.25mm;
+    fill: #000;
+}
+
 @media (max-width: 800px) {
     .root svg {
         width: 90px;
