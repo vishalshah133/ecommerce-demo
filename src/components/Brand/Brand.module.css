@@ -8,6 +8,9 @@
     stroke: #000;
     stroke-width: 0.25mm;
     fill: #000;
+    stroke-linecap: round; 
+    fill-rule: evenodd; 
+    font-size:9pt;
 }
 
 @media (max-width: 800px) {
